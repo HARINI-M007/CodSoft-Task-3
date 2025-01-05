@@ -10,3 +10,5 @@
 
 **BATCH DURATION**: DECEMBER-25,2024 TO JANUARY-25,2025
 
+# OUTPUT FOR TASK 3:
+![IDLE Shell 3 12 5 05-01-2025 7 28 31 PM](https://github.com/user-attachments/assets/cd11c040-a8e8-49db-8eb5-fe93748a034c)
